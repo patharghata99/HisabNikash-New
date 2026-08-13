@@ -4,7 +4,7 @@ const CORE = [
   '/',
   '/manifest.webmanifest',
   '/vendor/xlsx.full.min.js',
-  '/icon/icon-1254.png',
+  '/icon/icon-500.png',
   '/icon/icon-512.png',
   '/icon/icon-192.png',
   '/favicon.png',
